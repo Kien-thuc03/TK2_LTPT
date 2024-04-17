@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="tkde1:jar">
+    <output-path>$PROJECT_DIR$/../detk1_Client/lib</output-path>
+    <root id="archive" name="tkde1.jar">
+      <element id="module-output" name="tkde1" />
+    </root>
+  </artifact>
+</component>
